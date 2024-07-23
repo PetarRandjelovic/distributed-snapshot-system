@@ -1,0 +1,116 @@
+18:07:34 - Starting servent [12|localhost|1804] Version id 0 VOZDRA
+18:07:34 - Pausing for 1000 ms
+18:07:35 - Pausing for 15000 ms
+18:07:36 - Sending message [12|24|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|5|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|6|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|16|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|40|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|43|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|28|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|35|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|23|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|33|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|12|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|19|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|34|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|2|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|15|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [12|36|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [11|1|11|LY_MARKER|12 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:36 - Slikao sam snapshot LYSnapshotResult{serventId=12, recordedAmount=922, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=78, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}
+18:07:36 - Slikao sam snapshot LYSnapshotResult{serventId=12, recordedAmount=922, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=78, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}
+18:07:36 - TELL SALJEM {12=LYSnapshotResult{serventId=12, recordedAmount=922, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=78, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}} saljem 11
+18:07:36 - Sending message [12|48|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|17|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|22|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|41|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|32|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|31|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|8|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|11|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|18|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|3|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|13|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|25|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|14|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|46|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|27|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|7|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:36 - Sending message [12|20|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|37|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|26|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|9|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|0|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|39|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|38|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|30|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|42|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|45|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|1|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|29|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|44|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|10|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|49|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|21|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|4|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [12|47|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message {lySnapshotResultMap={12=LYSnapshotResult{serventId=12, recordedAmount=922, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=78, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}}}[12|50|11|LY_TELL|11 Version id: 0] {} app con {}OSVer 1 AppVer 1
+18:07:50 - Pausing for 1000 ms
+18:07:51 - Pausing for 15000 ms
+18:07:52 - Sending message [12|91|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|77|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|95|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|83|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|78|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|65|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|71|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|87|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|94|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|97|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|81|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|72|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|86|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|80|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|76|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|84|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|58|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|54|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|88|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|67|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|56|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|69|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|93|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|96|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|53|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [12|52|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|63|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|62|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|74|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|99|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|55|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|92|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|85|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|100|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|59|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|79|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|75|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|73|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|57|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|82|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|60|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|68|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|70|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|90|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|89|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|66|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|64|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|98|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|51|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [12|61|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:57 - Got message [11|12|11|LY_MARKER|12 Version id: 0] null app con {} original sender version is 2 app config version 1 dobio mapu null
+18:07:57 - Slikao sam snapshot LYSnapshotResult{serventId=12, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=330, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=252, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}
+18:07:57 - Slikao sam snapshot LYSnapshotResult{serventId=12, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=330, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=252, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}
+18:07:57 - TELL SALJEM {12=LYSnapshotResult{serventId=12, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=330, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=252, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}} saljem 11
+18:07:58 - Sending message {lySnapshotResultMap={12=LYSnapshotResult{serventId=12, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=330, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=252, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}}}[12|101|11|LY_TELL|11 Version id: 0] {} app con {}OSVer 2 AppVer 2
+18:08:06 - Stopping...

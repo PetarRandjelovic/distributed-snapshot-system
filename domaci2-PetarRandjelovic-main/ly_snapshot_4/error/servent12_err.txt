@@ -1,0 +1,19 @@
+18:07:34 - ?
+18:07:36 - 0 chacha 0
+18:07:36 - init11
+originalsender11
+collectorid11
+18:07:36 - SADA JE PARENT Parent je 11 inicijator id 11
+18:07:36 - SADA JE PARENT Parent je 11 inicijator id 11
+18:07:36 - Parent je 11 inicijator id 11
+18:07:36 - SALJEM MARKERE
+18:07:36 - Poslacu nazad parent id  11 serveru 11 sa znanjem{} 11
+18:07:57 - 1 chacha 1
+18:07:57 - init11
+originalsender11
+collectorid11
+18:07:57 - SADA JE PARENT Parent je 11 inicijator id 11
+18:07:57 - SADA JE PARENT Parent je 11 inicijator id 11
+18:07:57 - Parent je 11 inicijator id 11
+18:07:57 - SALJEM MARKERE
+18:07:57 - Poslacu nazad parent id  11 serveru 11 sa znanjem{} 11

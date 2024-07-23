@@ -1,0 +1,35 @@
+18:07:34 - ?
+18:07:36 - 0 chacha 0
+18:07:36 - init4
+originalsender4
+collectorid4
+18:07:36 - SADA JE PARENT Parent je 4 inicijator id 4
+18:07:36 - SADA JE PARENT Parent je 4 inicijator id 4
+18:07:36 - Parent je 4 inicijator id 4
+18:07:36 - SALJEM MARKERE
+18:07:36 - AAAAAAA USAO za for Parent je 4za servent negh id 0
+18:07:36 - AAAAAAA USAO za for Parent je 4za servent negh id 1
+18:07:36 - AAAAAAA USAO za for Parent je 4za servent negh id 2
+18:07:36 - AAAAAAA USAO za for Parent je 4za servent negh id 5
+18:07:37 - bolji zivot 0 onaj koj salje 0 supervizor je 4
+18:07:37 - bolji zivot 0 onaj koj salje 1 supervizor je 4
+18:07:37 - bolji zivot 7 onaj koj salje 5 supervizor je 4
+18:07:38 - bolji zivot 0 onaj koj salje 2 supervizor je 4
+18:07:39 - Poslacu nazad parent id  4 serveru 4 sa znanjem{0=[0, 2, 1], 7=[5]} 
+18:07:57 - 1 chacha 1
+18:07:57 - init0
+originalsender0
+collectorid0
+18:07:57 - SADA JE PARENT Parent je 0 inicijator id 0
+18:07:57 - SADA JE PARENT Parent je 0 inicijator id 0
+18:07:57 - Parent je 0 inicijator id 0
+18:07:57 - SALJEM MARKERE
+18:07:57 - AAAAAAA USAO za for Parent je 0za servent negh id 1
+18:07:57 - AAAAAAA USAO za for Parent je 0za servent negh id 2
+18:07:57 - AAAAAAA USAO za for Parent je 0za servent negh id 4
+18:07:57 - AAAAAAA USAO za for Parent je 0za servent negh id 5
+18:07:57 - bolji zivot 7 onaj koj salje 1 supervizor je 0
+18:07:57 - bolji zivot 4 onaj koj salje 4 supervizor je 0
+18:07:57 - bolji zivot 7 onaj koj salje 5 supervizor je 0
+18:07:58 - bolji zivot 7 onaj koj salje 2 supervizor je 0
+18:08:00 - Poslacu nazad parent id  0 serveru 0 sa znanjem{4=[4], 7=[1, 2, 5]} 

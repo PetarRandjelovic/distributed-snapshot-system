@@ -1,0 +1,25 @@
+18:14:00 - ?
+18:14:02 - 0 chacha 0
+18:14:02 - init6
+originalsender6
+collectorid6
+18:14:02 - SADA JE PARENT Parent je 6 inicijator id 6
+18:14:02 - SADA JE PARENT Parent je 6 inicijator id 6
+18:14:02 - Parent je 6 inicijator id 6
+18:14:02 - SALJEM MARKERE
+18:14:02 - AAAAAAA USAO za for Parent je 6za servent negh id 1
+18:14:02 - AAAAAAA USAO za for Parent je 6za servent negh id 4
+18:14:03 - bolji zivot 0 onaj koj salje 1 supervizor je 6
+18:14:06 - Dobio tell KOMSIJA 1 od 4
+18:14:06 - STA JE U OVOM TELU {4=LYSnapshotResult{serventId=4, recordedAmount=1277, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=277, 6=0}}, snapshotVersion=1}}
+18:14:06 - Poslacu nazad parent id  6 serveru 6 sa znanjem{0=[1], 6=[6, 3]}
+18:14:18 - 1 chacha 1
+18:14:18 - init6
+originalsender6
+collectorid6
+18:14:18 - SADA JE PARENT Parent je 6 inicijator id 6
+18:14:18 - SADA JE PARENT Parent je 6 inicijator id 6
+18:14:18 - Parent je 6 inicijator id 6
+18:14:18 - SALJEM MARKERE
+18:14:18 - AAAAAAA USAO za for Parent je 6za servent negh id 1
+18:14:18 - AAAAAAA USAO za for Parent je 6za servent negh id 4

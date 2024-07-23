@@ -1,0 +1,28 @@
+18:07:34 - ?
+18:07:37 - 0 chacha 0
+18:07:37 - init7
+originalsender7
+collectorid7
+18:07:37 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:37 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:37 - Parent je 7 inicijator id 7
+18:07:37 - SALJEM MARKERE
+18:07:37 - AAAAAAA USAO za for Parent je 7za servent negh id 9
+18:07:37 - AAAAAAA USAO za for Parent je 7za servent negh id 10
+18:07:37 - bolji zivot 7 onaj koj salje 9 supervizor je 7
+18:07:38 - bolji zivot 11 onaj koj salje 10 supervizor je 7
+18:07:39 - Poslacu nazad parent id  7 serveru 7 sa znanjem{7=[9], 11=[10]} 
+18:07:56 - 1 chacha 1
+18:07:56 - init7
+originalsender7
+collectorid7
+18:07:56 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:56 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:56 - Parent je 7 inicijator id 7
+18:07:56 - SALJEM MARKERE
+18:07:56 - AAAAAAA USAO za for Parent je 7za servent negh id 9
+18:07:56 - AAAAAAA USAO za for Parent je 7za servent negh id 10
+18:07:58 - bolji zivot 11 onaj koj salje 10 supervizor je 7
+18:07:59 - Dobio tell KOMSIJA 1 od 9
+18:07:59 - STA JE U OVOM TELU {9=LYSnapshotResult{serventId=9, recordedAmount=2095, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=453, 9=0, 10=341, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=307, 9=0, 10=245, 11=0, 12=0}}, snapshotVersion=2}}
+18:07:59 - Poslacu nazad parent id  7 serveru 7 sa znanjem{7=[7], 11=[10, 11]}

@@ -1,0 +1,14 @@
+18:14:00 - ?
+18:14:01 - Not initiator, can't start snapshot collection.
+18:14:03 - 0 chacha 0
+18:14:03 - init6
+originalsender5
+collectorid6
+18:14:03 - SADA JE PARENT Parent je 6 inicijator id 6
+18:14:03 - SADA JE PARENT Parent je 6 inicijator id 6
+18:14:03 - Parent je 6 inicijator id 6
+18:14:03 - SALJEM MARKERE
+18:14:03 - AAAAAAA USAO za for Parent je 5za servent negh id 3
+18:14:04 - bolji zivot 6 onaj koj salje 3 supervizor je 5
+18:14:05 - Poslacu nazad parent id  6 serveru 5 sa znanjem{6=[3]} 
+18:14:16 - Not initiator, can't start snapshot collection.

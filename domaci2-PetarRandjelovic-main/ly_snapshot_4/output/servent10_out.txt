@@ -1,0 +1,436 @@
+18:07:34 - Starting servent [10|localhost|1802] Version id 0 VOZDRA
+18:07:34 - Pausing for 1000 ms
+18:07:35 - Pausing for 15000 ms
+18:07:36 - Sending message [10|20|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|13|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|66|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|124|2|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|73|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|143|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|51|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|38|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|146|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Got message [8|43|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Got message [8|56|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|138|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|37|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|59|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Got message [8|110|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Got message [8|55|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|146|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|54|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|57|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|144|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|78|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|114|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|70|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|42|9|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|87|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|122|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|28|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|86|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|102|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|121|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|117|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|98|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|104|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|105|1|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|149|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|64|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|107|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|134|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|29|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|133|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|148|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|39|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|52|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|40|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|72|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|135|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|126|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|74|1|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|118|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|18|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|0|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|116|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|30|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|76|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|41|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|50|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|56|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|75|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|141|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|53|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|48|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|60|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|143|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|96|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|54|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|35|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|115|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|82|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|131|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|101|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|8|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|45|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|9|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|79|2|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|69|2|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|111|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|117|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|25|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|50|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|52|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|4|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|97|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|22|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|5|2|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|95|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|106|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|88|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|29|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|62|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|21|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|77|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|27|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|114|7|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|103|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|26|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|119|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|22|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|93|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|140|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|85|3|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|46|10|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|147|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:36 - Sending message [10|94|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|55|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|1|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|147|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|23|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|148|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|24|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|67|9|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|63|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Sending message [10|6|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:36 - Got message [8|91|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:37 - Sending message [10|34|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|11|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|89|2|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|43|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|59|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|2|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|73|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Got message [8|27|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 0 app config version 0 dobio mapu null
+18:07:37 - Sending message [10|65|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|80|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|127|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|49|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|108|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|99|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|110|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|136|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|83|2|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|58|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|112|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|61|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|100|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|91|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|3|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|86|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|137|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|128|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|113|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|71|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|120|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|132|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|85|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|7|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|36|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|44|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|142|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|25|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|12|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|81|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|16|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Got message [8|88|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|87|3|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|23|7|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Sending message [10|33|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Got message [8|58|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|142|3|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|61|3|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|84|3|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|145|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|140|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|26|7|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|24|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|111|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|89|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|116|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|149|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Sending message [10|119|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Got message [8|113|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|82|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|112|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|115|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|21|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Sending message [10|10|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Got message [8|28|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Got message [8|80|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Sending message [10|139|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Got message [8|57|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Sending message [10|15|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|109|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|32|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|31|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|145|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|17|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|47|10|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|90|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|118|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|130|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Sending message [10|14|10|TRANSACTION|9 Version id: 0] null app con {}OSVer 0 AppVer 0
+18:07:37 - Got message [11|0|11|LY_MARKER|10 Version id: 0] null app con {} original sender version is 1 app config version 0 dobio mapu null
+18:07:37 - Slikao sam snapshot LYSnapshotResult{serventId=10, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=251, 9=246, 10=0, 11=258, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=249, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}
+18:07:37 - Sending message [10|125|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|19|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|144|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|92|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|84|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|123|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|129|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|68|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Sending message [10|141|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:37 - Got message [8|20|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:38 - Got message [9|1|7|LY_MARKER|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:38 - Sending message [10|151|11|LY_MARKER|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:38 - Got message [8|151|7|LY_MARKER|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:38 - Sending message [10|152||REJECT|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:38 - Sending message [10|150|11|LY_MARKER|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:38 - Sending message [10|153||REJECT|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:39 - Got message [9|3||REJECT|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:39 - KOMSIJA REJECT 1 TREBA 3
+18:07:40 - Got message [8|153||REJECT|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:40 - KOMSIJA REJECT 2 TREBA 3
+18:07:40 - Slikao sam snapshot LYSnapshotResult{serventId=10, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=251, 9=246, 10=0, 11=258, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=249, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}
+18:07:40 - TELL SALJEM {10=LYSnapshotResult{serventId=10, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=251, 9=246, 10=0, 11=258, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=249, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}} saljem 11
+18:07:40 - Sending message {lySnapshotResultMap={10=LYSnapshotResult{serventId=10, recordedAmount=494, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=251, 9=246, 10=0, 11=258, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=249, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=1}}}[10|154||LY_TELL|11 Version id: 0] {7=[9, 8]} app con {}OSVer 1 AppVer 1
+18:07:50 - Pausing for 1000 ms
+18:07:51 - Pausing for 15000 ms
+18:07:52 - Got message [8|223|7|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|258|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|281|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|157|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|189|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|155|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|291|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|304|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|161|2|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|258|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|176|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|190|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|237|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|197|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|238|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|198|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|288|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|207|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|211|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|255|2|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|214|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|169|10|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|249|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|266|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|263|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|195|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|199|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|295|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|299|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|297|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|209|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|225|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|273|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|252|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|191|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|245|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|174|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|176|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|206|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|218|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|285|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|168|2|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|215|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|194|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|279|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|244|7|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|296|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|205|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|288|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|171|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|294|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|217|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|299|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|231|1|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|239|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|236|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|193|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|173|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|220|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|200|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|228|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|256|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|177|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|237|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|298|3|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|253|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|303|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|210|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|203|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|290|2|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|282|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|172|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|234|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|159|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|222|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|226|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|211|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|220|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|242|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|165|2|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|224|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|175|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|205|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|294|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|276|9|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|222|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|209|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|180|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|167|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|264|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|156|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|240|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|282|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|208|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|279|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|221|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|162|8|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|187|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|250|7|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|227|9|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|175|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|230|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|171|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|184|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|267|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|181|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|301|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Sending message [10|278|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:52 - Got message [8|249|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Got message [8|295|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:52 - Sending message [10|303|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|246|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|274|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|235|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|259|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|219|3|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|212|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|268|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|293|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|248|6|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|214|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|179|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|232|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|208|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|257|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|301|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|253|3|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|304|8|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|292|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|231|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|204|7|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|174|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|296|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|178|6|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|271|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|193|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|201|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|229|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|262|9|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|160|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|158|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|184|7|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|274|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|179|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|270|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|177|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|284|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|275|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|164|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|206|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|192|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|213|1|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|254|3|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|185|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|163|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|200|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|230|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|235|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|244|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|261|1|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|202|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|178|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|170|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|265|10|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Got message [8|266|5|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|265|9|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|261|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|233|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|207|4|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|300|10|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|260|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|183|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|272|3|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|267|9|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|186|9|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|173|1|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|289|6|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|280|4|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|283|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|269|10|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|243|10|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|182|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|260|9|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|166|2|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|241|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|216|4|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|287|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|188|4|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|236|6|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Got message [8|252|2|TRANSACTION|10 Version id: 0] null app con {} original sender version is 1 app config version 1 dobio mapu null
+18:07:53 - Sending message [10|277|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|291|5|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|251|1|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|298|8|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|247|7|TRANSACTION|8 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|196|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|286|5|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|302|8|TRANSACTION|11 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|223|1|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:53 - Sending message [10|283|5|TRANSACTION|9 Version id: 0] null app con {}OSVer 1 AppVer 1
+18:07:57 - Got message [11|11|11|LY_MARKER|10 Version id: 0] null app con {} original sender version is 2 app config version 1 dobio mapu null
+18:07:57 - Slikao sam snapshot LYSnapshotResult{serventId=10, recordedAmount=-88, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=575, 9=491, 10=0, 11=511, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=324, 9=245, 10=0, 11=253, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=535, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=286, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}
+18:07:57 - Got message [8|306|7|LY_MARKER|10 Version id: 0] null app con {} original sender version is 2 app config version 2 dobio mapu null
+18:07:57 - Got message [9|6|7|LY_MARKER|10 Version id: 0] null app con {} original sender version is 2 app config version 2 dobio mapu null
+18:07:58 - Sending message [10|306|11|LY_MARKER|9 Version id: 0] null app con {}OSVer 2 AppVer 2
+18:07:58 - Sending message [10|307||REJECT|8 Version id: 0] null app con {}OSVer 2 AppVer 2
+18:07:58 - Sending message [10|305|11|LY_MARKER|8 Version id: 0] null app con {}OSVer 2 AppVer 2
+18:07:59 - Sending message [10|308||REJECT|9 Version id: 0] null app con {}OSVer 2 AppVer 2
+18:07:59 - Got message [9|8||REJECT|10 Version id: 0] null app con {} original sender version is 2 app config version 2 dobio mapu null
+18:07:59 - KOMSIJA REJECT 1 TREBA 3
+18:08:00 - Got message [8|307||REJECT|10 Version id: 0] null app con {} original sender version is 2 app config version 2 dobio mapu null
+18:08:00 - KOMSIJA REJECT 2 TREBA 3
+18:08:00 - Slikao sam snapshot LYSnapshotResult{serventId=10, recordedAmount=-88, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=575, 9=491, 10=0, 11=511, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=324, 9=245, 10=0, 11=253, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=535, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=286, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}
+18:08:00 - TELL SALJEM {10=LYSnapshotResult{serventId=10, recordedAmount=-88, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=575, 9=491, 10=0, 11=511, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=324, 9=245, 10=0, 11=253, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=535, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=286, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}} saljem 11
+18:08:00 - Sending message {lySnapshotResultMap={10=LYSnapshotResult{serventId=10, recordedAmount=-88, giveHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=575, 9=491, 10=0, 11=511, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=324, 9=245, 10=0, 11=253, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=535, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=0, 6=0, 7=0, 8=286, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}}}[10|309||LY_TELL|11 Version id: 0] {7=[9, 8]} app con {}OSVer 2 AppVer 2
+18:08:06 - Stopping...

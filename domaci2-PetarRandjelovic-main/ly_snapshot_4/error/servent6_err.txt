@@ -1,0 +1,36 @@
+18:07:34 - ?
+18:07:37 - 0 chacha 0
+18:07:37 - init7
+originalsender7
+collectorid7
+18:07:37 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:37 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:37 - Parent je 7 inicijator id 7
+18:07:37 - SALJEM MARKERE
+18:07:37 - AAAAAAA USAO za for Parent je 7za servent negh id 1
+18:07:37 - AAAAAAA USAO za for Parent je 7za servent negh id 2
+18:07:37 - AAAAAAA USAO za for Parent je 7za servent negh id 4
+18:07:37 - AAAAAAA USAO za for Parent je 7za servent negh id 5
+18:07:37 - bolji zivot 4 onaj koj salje 4 supervizor je 7
+18:07:37 - bolji zivot 7 onaj koj salje 5 supervizor je 7
+18:07:38 - bolji zivot 0 onaj koj salje 1 supervizor je 7
+18:07:38 - bolji zivot 0 onaj koj salje 2 supervizor je 7
+18:07:39 - Poslacu nazad parent id  7 serveru 7 sa znanjem{0=[1, 2], 4=[4], 7=[5]} 
+18:07:56 - 1 chacha 1
+18:07:56 - init7
+originalsender7
+collectorid7
+18:07:56 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:56 - SADA JE PARENT Parent je 7 inicijator id 7
+18:07:56 - Parent je 7 inicijator id 7
+18:07:56 - SALJEM MARKERE
+18:07:56 - AAAAAAA USAO za for Parent je 7za servent negh id 1
+18:07:56 - AAAAAAA USAO za for Parent je 7za servent negh id 2
+18:07:56 - AAAAAAA USAO za for Parent je 7za servent negh id 4
+18:07:56 - AAAAAAA USAO za for Parent je 7za servent negh id 5
+18:07:57 - bolji zivot 7 onaj koj salje 5 supervizor je 7
+18:07:57 - bolji zivot 4 onaj koj salje 4 supervizor je 7
+18:07:58 - bolji zivot 7 onaj koj salje 2 supervizor je 7
+18:08:00 - Dobio tell KOMSIJA 3 od 1
+18:08:00 - STA JE U OVOM TELU {1=LYSnapshotResult{serventId=1, recordedAmount=-84, giveHistory={0={0=591, 1=0, 2=0, 3=513, 4=0, 5=528, 6=559, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}, 1={0=322, 1=0, 2=0, 3=283, 4=0, 5=264, 6=277, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, getHistory={0={0=0, 1=0, 2=0, 3=0, 4=0, 5=333, 6=446, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}, 1={0=0, 1=0, 2=0, 3=0, 4=0, 5=295, 6=274, 7=0, 8=0, 9=0, 10=0, 11=0, 12=0}}, snapshotVersion=2}}
+18:08:00 - Poslacu nazad parent id  7 serveru 7 sa znanjem{0=[0, 3], 4=[4], 7=[5, 2, 7]}
