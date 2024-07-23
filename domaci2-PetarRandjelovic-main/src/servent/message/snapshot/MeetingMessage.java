@@ -21,18 +21,7 @@ public class MeetingMessage extends BasicMessage {
 
 
         this.lySnapshotResultMap=lySnapshotResultMap;
-     //   this.lySnapshotResult = lySnapshotResult;
     }
-
-
-
-
-
-//
-//    public LYSnapshotResult getLYSnapshotResult() {
-//        return lySnapshotResult;
-//    }
-
 
     @Override
     public Map<Integer, LYSnapshotResult> getLySnapshotResultMap() {

@@ -14,7 +14,6 @@ import servent.handler.snapshot.MeetingHandler;
 import servent.handler.snapshot.RejectHandler;
 import servent.message.Message;
 import servent.message.MessageType;
-import servent.message.snapshot.LYTellMessage;
 import servent.message.util.MessageUtil;
 
 import java.io.IOException;
@@ -34,6 +33,7 @@ public class SimpleServentListener implements Runnable, Cancellable {
     public SimpleServentListener(SnapshotCollector snapshotCollector) {
         this.snapshotCollector = snapshotCollector;
     }
+
     private static ScheduledExecutorService executorService;
 
     /*
@@ -68,8 +68,6 @@ public class SimpleServentListener implements Runnable, Cancellable {
                 Socket clientSocket = listenerSocket.accept();
                 clientMessage = MessageUtil.readMessage(clientSocket);
 
-                //		AppConfig.timestampedErrorPrint();
-
                 synchronized (AppConfig.colorLock) {
 
 
@@ -77,15 +75,10 @@ public class SimpleServentListener implements Runnable, Cancellable {
 
                         if (clientMessage.getMessageType() == MessageType.LY_MARKER && AppConfig.snapshotVersion.get() != clientMessage.getSnapshotVersion()) {
 
-                            //       AppConfig.timestampedErrorPrint("WOW");
-
                             LaiYangBitcakeManager lyFinancialManager =
                                     (LaiYangBitcakeManager) snapshotCollector.getBitcakeManager();
                             lyFinancialManager.markerEvent(
                                     Integer.parseInt(clientMessage.getMessageText()), snapshotCollector, clientMessage.getInitiatorId(), clientMessage.getOriginalSenderInfo().getId(), AppConfig.snapshotVersion.get());
-
-                        }else {
-                      //      AppConfig.timestampedErrorPrint("Odbacujem poruku ");
                         }
                     }
 
@@ -101,60 +94,27 @@ public class SimpleServentListener implements Runnable, Cancellable {
 
                         messageHandler = new LYMarkerHandler();
 
-                     //   AppConfig.timestampedErrorPrint("marker od " + clientMessage.getInitiatorId() + " onaj koj salje " + clientMessage.getOriginalSenderInfo().getId() + " supervizor je " + AppConfig.supervisordId.get());
+                        if (AppConfig.parentId.get() == AppConfig.myServentInfo.getId()) {
 
-
-                      /*  if (AppConfig.parentId.get() == clientMessage.getInitiatorId()) {
-
-
-
-
-                            AppConfig.parentMap.computeIfAbsent(clientMessage.getInitiatorId(), k -> new CopyOnWriteArrayList<>()).add(clientMessage.getOriginalSenderInfo().getId());
-                      //      AppConfig.timestampedErrorPrint("Prihavatam marker od " + clientMessage.getInitiatorId() + " onaj koj salje " + clientMessage.getOriginalSenderInfo().getId() + " supervizor je " + AppConfig.supervisordId.get());
-
-                        } else */if (AppConfig.parentId.get() == AppConfig.myServentInfo.getId()) {
-
-                            //    messageHandler = new RejectHandler();
                             AppConfig.parentMap.computeIfAbsent(clientMessage.getInitiatorId(), k -> new CopyOnWriteArrayList<>()).add(clientMessage.getOriginalSenderInfo().getId());
                             LaiYangBitcakeManager lyFinancialManager =
                                     (LaiYangBitcakeManager) snapshotCollector.getBitcakeManager();
                             lyFinancialManager.rejectEvent(clientMessage.getInitiatorId(), clientMessage.getSnapshotVersion(), snapshotCollector, clientMessage.getOriginalSenderInfo().getId());
                             AppConfig.timestampedStandardPrint("Odbijam automatski marker od " + clientMessage.getInitiatorId() + " onaj koj salje " + clientMessage.getOriginalSenderInfo().getId() + " supervizor je " + AppConfig.supervisordId.get());
-                            //      AppConfig.checkedNeighbourParentNumber.incrementAndGet();
-                        } else if (AppConfig.supervisordId.get()!=clientMessage.getOriginalSenderInfo().getId()){
-                            AppConfig.timestampedErrorPrint("bolji zivot " + clientMessage.getInitiatorId() + " onaj koj salje " + clientMessage.getOriginalSenderInfo().getId() + " supervizor je " + AppConfig.supervisordId.get());
-
+                        } else if (AppConfig.supervisordId.get() != clientMessage.getOriginalSenderInfo().getId()) {
                             LaiYangBitcakeManager lyFinancialManager =
                                     (LaiYangBitcakeManager) snapshotCollector.getBitcakeManager();
                             lyFinancialManager.rejectEvent(clientMessage.getInitiatorId(), clientMessage.getSnapshotVersion(), snapshotCollector, clientMessage.getOriginalSenderInfo().getId());
                         }
-//                        else {
-//
-//                            //    messageHandler = new RejectHandler();
-//                            AppConfig.parentMap.computeIfAbsent(clientMessage.getInitiatorId(), k -> new CopyOnWriteArrayList<>()).add(clientMessage.getOriginalSenderInfo().getId());
-//
-//
-//                            LaiYangBitcakeManager lyFinancialManager =
-//                                    (LaiYangBitcakeManager) snapshotCollector.getBitcakeManager();
-//                            lyFinancialManager.rejectEvent(clientMessage.getInitiatorId(), clientMessage.getSnapshotVersion(), snapshotCollector, clientMessage.getOriginalSenderInfo().getId());
-//
-//                            AppConfig.timestampedErrorPrint("Odbijam marker od " + clientMessage.getInitiatorId() + " onaj koj salje " + clientMessage.getOriginalSenderInfo().getId()
-//                                    + " supervizor je " + AppConfig.supervisordId.get()
-//                            );
-//
-//                        }
-
-
-                        if ((AppConfig.sveKomsijeSuOdgovorili.get() == AppConfig.myServentInfo.getNeighbors().size() - 1)) {
+                        if ((AppConfig.neighboursAnswered.get() == AppConfig.myServentInfo.getNeighbors().size() - 1)) {
                             giveTellAnswer(clientMessage);
 
                         }
-
                         break;
                     case LY_TELL:
 
 
-                        AppConfig.timestampedErrorPrint("Dobio tell KOMSIJA "+ AppConfig.sveKomsijeSuOdgovorili+" od "+clientMessage.getOriginalSenderInfo().getId());
+                        AppConfig.timestampedErrorPrint("Dobio tell KOMSIJA " + AppConfig.neighboursAnswered + " od " + clientMessage.getOriginalSenderInfo().getId());
                         ConcurrentHashMap<Integer, CopyOnWriteArrayList<Integer>> parentMap = AppConfig.parentMap;
 
                         for (ConcurrentHashMap.Entry<Integer, CopyOnWriteArrayList<Integer>> entry : clientMessage.getParentMap().entrySet()) {
@@ -163,8 +123,7 @@ public class SimpleServentListener implements Runnable, Cancellable {
                                 AppConfig.parentMap.computeIfAbsent(entry.getKey(), k -> new CopyOnWriteArrayList<>()).add(key);
 
                             }
-                            //   AppConfig.parentMap.computeIfAbsent(entry.getKey(), k -> entry.getValue());
-                            //      if (AppConfig.parentId.get() == AppConfig.myServentInfo.getId()) {
+
                             CopyOnWriteArrayList<Integer> list = null;
                             for (Integer key : AppConfig.parentMap.keySet()) {
                                 list = AppConfig.parentMap.get(key);
@@ -179,27 +138,14 @@ public class SimpleServentListener implements Runnable, Cancellable {
                             }
 
                         }
-                        AppConfig.timestampedErrorPrint("STA JE U OVOM TELU "+clientMessage.getLySnapshotResultMap());
-//                        AppConfig.parentMap.computeIfAbsent(clientMessage.getInitiatorId(), k -> new CopyOnWriteArrayList<>()).add(clientMessage.getOriginalSenderInfo().getId());
-//
-
-                        AppConfig.test1.incrementAndGet();
-//                        AppConfig.timestampedErrorPrint("DOBIJEN Tell od iniator " + clientMessage.getInitiatorId() + " onaj koj salje "
-//                                + clientMessage.getOriginalSenderInfo().getId() + " sa mapom " + AppConfig.parentMap + " obradjeno je " + AppConfig.test1
-//                                +" snapshot rezulat "+((LYTellMessage) clientMessage).getLYSnapshotResult()+clientMessage.getOriginalSenderInfo());
+                        AppConfig.timestampedErrorPrint("STA JE U OVOM TELU " + clientMessage.getLySnapshotResultMap());
                         messageHandler = new LYTellHandler(clientMessage, snapshotCollector);
-
-
-
                         break;
                     case REJECT:
-                        AppConfig.sveKomsijeSuOdgovorili.incrementAndGet();
+                        AppConfig.neighboursAnswered.incrementAndGet();
 
                         AppConfig.rejectedList.add(clientMessage.getOriginalSenderInfo().getId());
                         AppConfig.parentMap.computeIfAbsent(clientMessage.getInitiatorId(), k -> new CopyOnWriteArrayList<>()).add(clientMessage.getOriginalSenderInfo().getId());
-
-                        //      if (AppConfig.parentId.get() == AppConfig.myServentInfo.getId()) {
-
                         for (Integer key : AppConfig.parentMap.keySet()) {
                             CopyOnWriteArrayList<Integer> list = AppConfig.parentMap.get(key);
                             for (int i = 0; i < list.size(); i++) {
@@ -211,14 +157,10 @@ public class SimpleServentListener implements Runnable, Cancellable {
                                 }
                             }
                         }
-                        AppConfig.test1.incrementAndGet();
-
-
-                        //    AppConfig.timestampedErrorPrint("Reject od " + clientMessage.getInitiatorId() + " onaj koj salje " + clientMessage.getOriginalSenderInfo().getId());
                         messageHandler = new RejectHandler();
 
-                        AppConfig.timestampedStandardPrint("KOMSIJA REJECT "+ AppConfig.sveKomsijeSuOdgovorili.get()+" TREBA "+AppConfig.myServentInfo.getNeighbors().size());
-                        if ((AppConfig.sveKomsijeSuOdgovorili.get() == AppConfig.myServentInfo.getNeighbors().size() - 1)){
+                        AppConfig.timestampedStandardPrint("KOMSIJA REJECT " + AppConfig.neighboursAnswered.get() + " TREBA " + AppConfig.myServentInfo.getNeighbors().size());
+                        if ((AppConfig.neighboursAnswered.get() == AppConfig.myServentInfo.getNeighbors().size() - 1)) {
                             giveTellAnswer(clientMessage);
 
                         }
@@ -226,26 +168,18 @@ public class SimpleServentListener implements Runnable, Cancellable {
                         break;
                     case MEETING:
 
-                        //    AppConfig.timestampedErrorPrint("Primam poruku " + clientMessage.getParentMap());
-                        messageHandler = new MeetingHandler(clientMessage, ((SnapshotCollectorWorker)snapshotCollector).getCollectedLYValues(), snapshotCollector);
-
-
-                        //   AppConfig.timestampedStandardPrint("wtf");
-                        if (executorService!=null && executorService.isShutdown()) {
-                            //     AppConfig.timestampedStandardPrint("Je l ulazis");
+                        messageHandler = new MeetingHandler(clientMessage, ((SnapshotCollectorWorker) snapshotCollector).getCollectedLYValues(), snapshotCollector);
+                        if (executorService != null && executorService.isShutdown()) {
                             executorService.shutdownNow();
                         }
                         executorService = Executors.newSingleThreadScheduledExecutor();
                         int timeout = 2;
                         // Schedule a task to be executed if no case is entered within TIMEOUT_DURATION seconds
                         executorService.schedule(() -> {
-                            // Execute default action here
-                        //    AppConfig.startCountingNowOvo.set(true);
                         }, timeout, TimeUnit.SECONDS);
 
                         AppConfig.canStartCounting.set(false);
                         executorService.shutdown();
-                        //     AppConfig.timestampedStandardPrint("Resetujem");
                         break;
                 }
 
@@ -260,9 +194,9 @@ public class SimpleServentListener implements Runnable, Cancellable {
         }
     }
 
-    public void giveTellAnswer(Message clientMessage){
+    public void giveTellAnswer(Message clientMessage) {
         AppConfig.timestampedErrorPrint("Poslacu nazad parent id " + " " + AppConfig.parentId.get() + " serveru " + AppConfig.supervisordId.get() + " sa znanjem" +
-                AppConfig.parentMap+" "+clientMessage.getMessageText());
+                AppConfig.parentMap + " " + clientMessage.getMessageText());
         LaiYangBitcakeManager lyFinancialManager =
                 (LaiYangBitcakeManager) snapshotCollector.getBitcakeManager();
         lyFinancialManager.tellEvent(

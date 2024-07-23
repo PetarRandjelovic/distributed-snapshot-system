@@ -29,13 +29,13 @@ public class BasicMessage implements Message {
     private final String messageText;
     private final boolean white;
     private final int snapshotVersion;
-    private  int initiatorId;
+    private int initiatorId;
     private ConcurrentHashMap<Integer, CopyOnWriteArrayList<Integer>> parentMap;
     private Map<Integer, LYSnapshotResult> lySnapshotResultMap;
     //This gives us a unique id - incremented in every natural constructor.
     private static AtomicInteger messageCounter = new AtomicInteger(0);
     private final int messageId;
-    private   boolean sendback;
+    private boolean sendback;
 
 
     public BasicMessage(MessageType type, ServentInfo originalSenderInfo, ServentInfo receiverInfo, int snapshotVersion, int iniatorId) {
@@ -77,10 +77,9 @@ public class BasicMessage implements Message {
         this.parentMap = parentMap;
     }
 
-//jej
     public BasicMessage(MessageType messageType, ServentInfo originalSenderInfo, ServentInfo receiverInfo,
                         int snapshotVersion, int initiatorId, Map<Integer,
-            LYSnapshotResult> lySnapshotResultMap, ConcurrentHashMap<Integer, CopyOnWriteArrayList<Integer>> parentMap,boolean sendback) {
+            LYSnapshotResult> lySnapshotResultMap, ConcurrentHashMap<Integer, CopyOnWriteArrayList<Integer>> parentMap, boolean sendback) {
         this.type = messageType;
         this.originalSenderInfo = originalSenderInfo;
         this.receiverInfo = receiverInfo;
@@ -92,7 +91,7 @@ public class BasicMessage implements Message {
         this.initiatorId = initiatorId;
         this.lySnapshotResultMap = lySnapshotResultMap;
         this.parentMap = parentMap;
-        this.sendback=sendback;
+        this.sendback = sendback;
     }
 
     @Override
@@ -169,56 +168,10 @@ public class BasicMessage implements Message {
      */
 
 
-
-
-//    @Override
-//    public Message makeMeASender() {
-//        ServentInfo newRouteItem = AppConfig.myServentInfo;
-//
-//        List<ServentInfo> newRouteList = new ArrayList<>(routeList);
-//        newRouteList.add(newRouteItem);
-//        Message toReturn = new BasicMessage(getMessageType(), getOriginalSenderInfo(),
-//                getReceiverInfo(), isWhite(), newRouteList, getMessageText(), getMessageId(),getSnapshotVersion(),getInitiatorId());
-//
-//        return toReturn;
-//    }
-
     /**
      * Change the message received based on ID. The receiver has to be our neighbor.
      * Use this when you want to send a message to multiple neighbors, or when resending.
      */
-//    @Override
-//    public Message changeReceiver(Integer newReceiverId) {
-//        if (AppConfig.myServentInfo.getNeighbors().contains(newReceiverId)) {
-//            ServentInfo newReceiverInfo = AppConfig.getInfoById(newReceiverId);
-//
-//            Message toReturn = new BasicMessage(getMessageType(), getOriginalSenderInfo(),
-//                    newReceiverInfo, isWhite(), getRoute(), getMessageText(), getMessageId(),getSnapshotVersion(),getInitiatorId());
-//
-//            return toReturn;
-//        } else {
-//            AppConfig.timestampedErrorPrint("Trying to make a message for " + newReceiverId + " who is not a neighbor.");
-//
-//            return null;
-//        }
-//
-//    }
-
-//    @Override
-//    public Message setRedColor() {
-//        Message toReturn = new BasicMessage(getMessageType(), getOriginalSenderInfo(),
-//                getReceiverInfo(), false, getRoute(), getMessageText(), getMessageId(),getSnapshotVersion(),getInitiatorId());
-//
-//        return toReturn;
-//    }
-//
-//    @Override
-//    public Message setWhiteColor() {
-//        Message toReturn = new BasicMessage(getMessageType(), getOriginalSenderInfo(),
-//                getReceiverInfo(), true, getRoute(), getMessageText(), getMessageId(),getSnapshotVersion(),getInitiatorId());
-//
-//        return toReturn;
-//    }
 
     /**
      * Comparing messages is based on their unique id and the original sender id.
@@ -253,7 +206,7 @@ public class BasicMessage implements Message {
     public String toString() {
         return "[" + getOriginalSenderInfo().getId() + "|" + getMessageId() + "|" +
                 getMessageText() + "|" + getMessageType() + "|" +
-                getReceiverInfo().getId() + " Version id: "+ getReceiverInfo().getVersionId()+"]"+" "+getParentMap()+" app con "+AppConfig.collectedLYValues;
+                getReceiverInfo().getId() + " Version id: " + getReceiverInfo().getVersionId() + "]" + " " + getParentMap() + " app con " + AppConfig.collectedLYValues;
     }
 
     /**
@@ -277,6 +230,5 @@ public class BasicMessage implements Message {
 
     public boolean isSendBack() {
         return sendback;
-     //   return false;
     }
 }

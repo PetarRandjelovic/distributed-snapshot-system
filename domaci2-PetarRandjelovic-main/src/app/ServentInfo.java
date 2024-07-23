@@ -48,7 +48,7 @@ public class ServentInfo implements Serializable {
 
     public void setVersionId(int versionId) {
 
-       this.versionId = versionId;
+        this.versionId = versionId;
     }
 
     @Override

@@ -37,8 +37,5 @@ public class TransactionMessage extends BasicMessage {
 			
 			lyFinancialManager.recordGiveTransaction(getReceiverInfo().getId(), amount, getSnapshotVersion());
 		}
-//		else {
-//			bitcakeManager.addSomeBitcakes(amount);
-//		}
 	}
 }
